@@ -1,5 +1,5 @@
 <!ELEMENT Listaventas (Venta)+>
-        <!ELEMENT Venta (Importe, Comprador, Vendedor, CodigoFactura | Fecha)>
+        <!ELEMENT Venta (Importe, Comprador, Vendedor,Fecha?, CodigoFactura)>
         <!ELEMENT Importe (#PCDATA)>
         <!ELEMENT Comprador (#PCDATA)>
         <!ELEMENT Vendedor (#PCDATA)>
