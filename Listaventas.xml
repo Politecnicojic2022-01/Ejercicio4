@@ -3,10 +3,10 @@
 
 <Listaventas>
     <Venta>
-        <Importe></Importe>
-        <Comprador></Comprador>
-        <Vendedor></Vendedor>
-        <Fecha></Fecha>
-        <CodigoFactura></CodigoFactura>
+        <Importe>2000</Importe>
+        <Comprador>Miguel</Comprador>
+        <Vendedor>Jose</Vendedor>
+        <Fecha>20220601</Fecha>
+        <CodigoFactura>003</CodigoFactura>
     </Venta>
 </Listaventas>
